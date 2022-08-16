@@ -1,5 +1,5 @@
 # podman-ubuntu2004-ansible
-[![Build](https://github.com/dandyrow/docker-ubuntu2004-ansible/actions/workflows/CI-CD.yml/badge.svg?branch=master)](https://github.com/dandyrow/docker-ubuntu2004-ansible/actions/workflows/CI-CD.yml)
+[![Build](https://github.com/dandyrow/podman-ubuntu2004-ansible/actions/workflows/CI-CD.yml/badge.svg?branch=master)](https://github.com/dandyrow/podman-ubuntu2004-ansible/actions/workflows/CI-CD.yml)
 
 Ubuntu 20.04 Podman image for use in testing Ansible roles and playbooks. Based upon the official Ubuntu container image. Includes Ansible and Systemd.
 
